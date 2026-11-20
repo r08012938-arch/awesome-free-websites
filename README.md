@@ -30,7 +30,7 @@ The goal is to help people discover useful websites for learning, work, creativi
 
 🎮 Entertainment
 
-- Add useful free entertainment websites here.
+- [Puffer Party](https://pufferparty.org/) — Free browser category game where friends take turns naming answers before a shared timer runs out.
 
 🔎 Useful Tools
 
