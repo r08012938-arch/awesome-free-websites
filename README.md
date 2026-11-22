@@ -30,7 +30,7 @@ The goal is to help people discover useful websites for learning, work, creativi
 
 🎮 Entertainment
 
-- Add useful free entertainment websites here.
+- [Coffee Break Games by Best Daily Games](https://bestdaily.games/collections/coffee-break-games/) — A free collection of short browser puzzles organized by how much time you have.
 
 🔎 Useful Tools
 
