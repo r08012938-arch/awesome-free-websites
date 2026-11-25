@@ -30,7 +30,7 @@ The goal is to help people discover useful websites for learning, work, creativi
 
 🎮 Entertainment
 
-- Add useful free entertainment websites here.
+- "StagePeek" (https://stagepeek.live/) — Interactive 2D seating charts and 3D concert stage-view simulator covering 201 global venues (free no-login browsing).
 
 🔎 Useful Tools
 
